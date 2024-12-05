@@ -1,0 +1,14 @@
+[
+  { "ja" : "1月", "en" : "january"},
+  { "ja" : "2月", "en" : "february"},
+  { "ja" : "3月", "en" : "march"},
+  { "ja" : "4月", "en" : "april"},
+  { "ja" : "5月", "en" : "may"},
+  { "ja" : "6月", "en" : "june"},
+  { "ja" : "7月", "en" : "july"},
+  { "ja" : "8月", "en" : "august"},
+  { "ja" : "9月", "en" : "september"},
+  { "ja" : "10月", "en" : "october"},
+  { "ja" : "11月", "en" : "november"},
+  { "ja" : "12月", "en" : "december"}
+]

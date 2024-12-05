@@ -1,0 +1,17 @@
+[
+  { "en" : "apple", "ja" : "りんご"},
+  { "en" : "orange", "ja" : "みかん"},
+  { "en" : "banana", "ja" : "バナナ"},
+  { "en" : "grape", "ja" :"ぶどう" },
+  { "en" : "pear", "ja" : "梨"},
+  { "en" : "cherry", "ja" : "さくらんぼ"},
+  { "en" : "melon", "ja" : "メロン"},
+  { "en" : "strawberry", "ja" : "いちご"},
+  { "en" : "peach", "ja" : "桃"},
+  { "en" : "persimmon, kaki", "ja" : "柿"},
+  { "en" : "loquat", "ja" : "びわ"},
+  { "en" : "lychee", "ja" : "ライチ"},
+  { "en" : "blueberry", "ja" : "ブルーベリー"},
+  { "en" : "fig", "ja" : "いちじく"},
+  { "en" : "prune", "ja" : "プルーン"}
+]

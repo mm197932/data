@@ -1,0 +1,9 @@
+[
+  { "ja" : "日曜日", "en" : "sunday"},
+  { "ja" : "月曜日", "en" : "monday"},
+  { "ja" : "火曜日", "en" : "tuesday"},
+  { "ja" : "水曜日", "en" : "wednesday"},
+  { "ja" : "木曜日", "en" : "thursday"},
+  { "ja" : "金曜日", "en" : "friday"},
+  { "ja" : "土曜日", "en" : "saturday"}
+]
